@@ -22,9 +22,6 @@ Clone this repository by using this one
 # Mobile Programming Android
 ### Technology Used
 ### UI
-- [Material Design](https://material.io/develop/android)
-- [Glide](https://github.com/bumptech/glide)
-- [Recycler View](https://github.com/codepath/android_guides/wiki/Using-the-RecyclerView)
 
 ### Database
 - [Cloud Firestore](https://firebase.google.com/docs/firestore)
@@ -35,7 +32,9 @@ Clone this repository by using this one
 ============================================================================================================================================
 
 # Cloud Computing 
+
 ## Create Databases for Frontend
+
 ## Deploying Machine Learning Model on Google Cloud Function
 
 ===============================================================================

@@ -23,7 +23,7 @@ Clone this repository by using this one
 
 ## Demo
 
-# Mobile Programming Android
+### Mobile Programming Android
 ### Technology Used
 ### UI
 - [Material Design](https://material.io/develop/android)
@@ -34,8 +34,8 @@ Clone this repository by using this one
 - [Cloud Firestore](https://firebase.google.com/docs/firestore)
 
 
-# Machine Learning
+### Machine Learning
 
 ============================================================================================================================================
 
-# Cloud Computing 
+### Cloud Computing 

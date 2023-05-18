@@ -1,6 +1,18 @@
-# Krama Kata
+# BISINDO-Sign-Language-Recognition (IndoSign)
+   
+ [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](http://developer.android.com/index.html) [![Kotlin](https://img.shields.io/badge/kotlin-1.5.10-blue.svg)](http://kotlinlang.org) [![Gradle](https://img.shields.io/badge/gradle-7.0-%2366DCB8.svg)](https://developer.android.com/studio/releases/gradle-plugin) 
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+### What is Krama Kata?
+
+KRAMA KATA is an application that provides information as a translator of various regional languages that uses natural language processing technology and artificial intelligence to translate text from one language to another. It is hoped that this application can help Indonesian people to get to know each other and learn regional languages in Indonesia. 
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Demo](#Demo)
+- [Mobile Programming Android](#Mobile Programming Android)
+- [Machine Learning](#Machine Learning)
+- [Cloud Computing](#Cloud Computing)
 
 ### Installation 
 Clone this repository by using this one  
@@ -8,42 +20,22 @@ Clone this repository by using this one
     https://github.com/hilmycool/KramaKata.git
 ```    
 
-## Description
 
-Provide a brief overview of your project. What does it do? Why did you create it? Mention any key features or functionalities.
+## Demo
 
-## Table of Contents
+# Mobile Programming Android
+### Technology Used
+### UI
+- [Material Design](https://material.io/develop/android)
+- [Glide](https://github.com/bumptech/glide)
+- [Recycler View](https://github.com/codepath/android_guides/wiki/Using-the-RecyclerView)
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+### Database
+- [Cloud Firestore](https://firebase.google.com/docs/firestore)
 
-## Installation
 
-Explain how to install and set up your project. Include any dependencies that need to be installed and how to do so.
+# Machine Learning
 
-## Usage
+============================================================================================================================================
 
-Provide instructions on how to use your project. Include any relevant code snippets or examples that can help users understand how to use your project effectively.
-
-## Contributing
-
-Explain how other developers or users can contribute to your project. Include guidelines for submitting pull requests, reporting bugs, or suggesting improvements.
-
-## License
-
-Include information about the license under which your project is distributed. You can replace `LICENSE` with the name of your license file.
-
-## Contact
-
-Provide your contact information, such as your email address or any other preferred method for users to get in touch with you regarding the project.
-
-## Acknowledgements
-
-If your project was built using third-party libraries, frameworks, or resources, acknowledge them here and provide links to their websites or repositories.
-
-## FAQ
-
-Include a list of frequently asked questions and their answers, if applicable.
-
+# Cloud Computing 

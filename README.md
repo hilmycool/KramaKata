@@ -2,6 +2,12 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+### Installation 
+Clone this repository by using this one  
+```
+    https://github.com/hilmycool/KramaKata.git
+```    
+
 ## Description
 
 Provide a brief overview of your project. What does it do? Why did you create it? Mention any key features or functionalities.

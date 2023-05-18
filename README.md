@@ -10,9 +10,6 @@ KRAMA KATA is an application that provides information as a translator of variou
 
 - [Installation](#installation)
 - [Demo](#Demo)
-- [Mobile Programming Android](#Mobile Programming Android)
-- [Machine Learning](#Machine Learning)
-- [Cloud Computing](#Cloud Computing)
 
 ### Installation 
 Clone this repository by using this one  
